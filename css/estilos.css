@@ -1,11 +1,23 @@
 body
 {
     color: rgb(49, 50, 69);
+<<<<<<< HEAD
     text-align: left;
     font-family: Calibri;
+=======
+    text-align: center;
+    font-family: Arial;
+>>>>>>> rama1
     font-size: 16 px;
     margin: 0;
     padding:0;
+}
+#cabecera{
+    background:rgb(123, 123, 232);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
 }
 
 #container
