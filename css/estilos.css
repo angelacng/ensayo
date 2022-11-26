@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(7, 14, 142);
+=======
+    color: red;
+>>>>>>> rama1
     text-align: left;
     font-family: Calibri;
     text-align: center;
