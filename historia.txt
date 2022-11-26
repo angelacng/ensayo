@@ -1,2 +1,8 @@
-ESta es  la historia de Lía 
-encontrada en el pedregal y estrellada en la vía
+vincular con repositorio github:
+//desde rama main local:
+git remote add origin https://github.com/angelacng/ensayo.git
+
+git pull origin main --allow-unrelated-histories
+
+git push origin main
+git push origin rama1 // crea la rama si no existe en github
