@@ -8,3 +8,4 @@ git remote add origin https://github.com/angelacng/ensayo.git
 git pull origin main --allow-unrelated-histories
 
 git push origin main
+git push origin rama1 // crea la rama si no existe en github
