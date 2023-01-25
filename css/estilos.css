@@ -14,10 +14,10 @@ body
     padding:0;
 }
 #cabecera{
-    background:rgb(123, 123, 232);
+    background: url("../imagenes/fuji.jpg") 10px 10px;
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bold;
 }
 
