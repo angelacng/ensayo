@@ -6,3 +6,6 @@ git pull origin main --allow-unrelated-histories
 
 git push origin main
 git push origin rama1 // crea la rama si no existe en github
+
+ESta es  la historia de Lía 
+encontrada en el pedregal y estrellada en la vía
